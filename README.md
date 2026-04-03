@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudhar07&show_icons=true&theme=tokyonight&cache_seconds=180000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudhar07&theme=tokyonight" />
 </p>
 
 ---
