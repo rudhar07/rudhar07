@@ -9,7 +9,7 @@
 - 🎓 Computer Science Student  
 - 💻 Full Stack Developer with strong backend fundamentals  
 - 🧠 Solved 170+ problems on LeetCode  
-- 🚀 Passionate about building scalable systems and improving problem-solving skills  
+- 🚀 Passionate about building scalable systems  
 
 ---
 
@@ -24,9 +24,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudhar07&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rudhar07&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudhar07&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudhar07&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudhar07/rudhar07/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -34,18 +48,18 @@
 ## 🚀 Projects
 
 ### 🔹 MockForge – Interview Simulation Platform
-- 🚀 Full-stack MERN-based platform for conducting structured mock interviews  
-- 📊 Implemented performance tracking and scoring system  
-- ⚙️ Designed modular backend with REST APIs  
+- 🚀 Full-stack MERN-based platform for structured mock interviews  
+- 📊 Performance tracking and scoring system  
+- ⚙️ Modular backend with REST APIs  
 - 🛠 Tech: MongoDB, Express.js, React.js, Node.js  
 - 🔗 [GitHub Repo](https://github.com/rudhar07/mockforge)
 
 ---
 
 ### 🔹 Spring Boot Backend Application
-- 🚀 Developed RESTful backend services using Java and Spring Boot  
-- ⚙️ Designed APIs for CRUD operations  
-- 🧩 Implemented layered architecture (Controller, Service, Repository)  
+- 🚀 RESTful backend services using Java and Spring Boot  
+- ⚙️ CRUD APIs and request handling  
+- 🧩 Layered architecture implementation  
 - 🛠 Tech: Java, Spring Boot  
 - 🔗 [GitHub Repo](https://github.com/rudhar07/Springboot-project)
 
@@ -53,7 +67,7 @@
 
 ## 🧠 DSA & Coding
 
-- 🟢 Solved 170+ problems on LeetCode  
+- 🟢 170+ problems solved on LeetCode  
 - 🔵 Codeforces Rating: 1110  
 - 🧠 Strong in Arrays, DP, Graphs  
 
