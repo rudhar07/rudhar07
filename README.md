@@ -1,16 +1,83 @@
-# 💫 About Me:
-CS Student @ Scaler School of Technology | Java • Spring Boot | Data Structures & OOPS | Building Production-Ready Projects
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudhar-bajaj/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rudhar07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rudhar07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudhar07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Rudhar%20Bajaj&fontSize=50&desc=Full%20Stack%20Developer%20|%20CS%20Student&descSize=20"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rudhar07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Full Stack Developer with strong backend fundamentals  
+- 🧠 Solved 170+ problems on LeetCode  
+- 🚀 Passionate about building scalable systems and improving problem-solving skills  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,spring,git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudhar07&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rudhar07&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 MockForge – Interview Simulation Platform
+- 🚀 Full-stack MERN-based platform for conducting structured mock interviews  
+- 📊 Implemented performance tracking and scoring system  
+- ⚙️ Designed modular backend with REST APIs  
+- 🛠 Tech: MongoDB, Express.js, React.js, Node.js  
+- 🔗 [GitHub Repo](https://github.com/rudhar07/mockforge)
+
+---
+
+### 🔹 Spring Boot Backend Application
+- 🚀 Developed RESTful backend services using Java and Spring Boot  
+- ⚙️ Designed APIs for CRUD operations  
+- 🧩 Implemented layered architecture (Controller, Service, Repository)  
+- 🛠 Tech: Java, Spring Boot  
+- 🔗 [GitHub Repo](https://github.com/rudhar07/Springboot-project)
+
+---
+
+## 🧠 DSA & Coding
+
+- 🟢 Solved 170+ problems on LeetCode  
+- 🔵 Codeforces Rating: 1110  
+- 🧠 Strong in Arrays, DP, Graphs  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudhar-bajaj/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/u/rudhar07/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/rudhar07">
+    <img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&style=for-the-badge"/>
+  </a>
+  <a href="mailto:rudharbajaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
