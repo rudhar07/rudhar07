@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Rudhar%20Bajaj&fontSize=50&desc=Full%20Stack%20Developer%20|%20CS%20Student&descSize=20"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Engineer;DSA+Enthusiast;Building+Scalable+Systems" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -91,6 +95,10 @@
 </p>
 
 ---
+
+<p align="center">
+  💡 <i>"Code. Optimize. Scale. Repeat."</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
