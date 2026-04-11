@@ -53,7 +53,7 @@
 
 ### 🔹 MockForge – Interview Simulation Platform
 - 🚀 Full-stack MERN-based platform for structured mock interviews  
-- 📊 Performance tracking and scoring system  
+- 📊 Performance tracking and scoring system with AI Coach Review
 - ⚙️ Modular backend with REST APIs  
 - 🛠 Tech: MongoDB, Express.js, React.js, Node.js  
 - 🔗 [GitHub Repo](https://github.com/rudhar07/mockforge)
