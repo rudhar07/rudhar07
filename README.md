@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Full Stack Developer with strong backend fundamentals  
-- 🧠 Solved 170+ problems on LeetCode  
+- 🧠 Solved 175+ problems on LeetCode  
 - 🚀 Passionate about building scalable systems  
 
 ---
