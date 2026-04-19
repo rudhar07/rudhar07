@@ -71,9 +71,9 @@
 
 ## 🧠 DSA & Coding
 
-- 🟢 170+ problems solved on LeetCode  
+- 🟢 175+ problems solved on LeetCode  
 - 🔵 Codeforces Rating: 1110  
-- 🧠 Strong in Arrays, DP, Graphs  
+- 🧠 Strong in Arrays, DP, Graphs, Trees 
 
 ---
 
