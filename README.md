@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Full Stack Developer with strong backend fundamentals  
-- 🧠 Solved 200+ problems on LeetCode  
+- 🧠 Solved 215+ problems on LeetCode  
 - 🚀 Passionate about building scalable systems  
 
 ---
@@ -71,7 +71,7 @@
 
 ## 🧠 DSA & Coding
 
-- 🟢 200+ problems solved on LeetCode  
+- 🟢 215+ problems solved on LeetCode  
 - 🔵 Codeforces Rating: 1110  
 - 🧠 Strong in Arrays, DP, Graphs, Trees 
 
